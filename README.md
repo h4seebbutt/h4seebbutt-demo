@@ -1,2 +1,3 @@
 # h4seebbutt-demo
-My first github repository
+My first git repository
+Author - Haseeb Butt
